@@ -1,0 +1,7 @@
+Ballpen,1,Lapis,2,50.0
+Ballpen,1,Lapis,48,50.0
+Notebook,3,3,3,3.0
+Ballpen,50,50,48,50.0
+Ballpen,50,50,1,50.0
+Ballpen,50,50,1,50.0
+Ballpen,5,2,3,3.0
